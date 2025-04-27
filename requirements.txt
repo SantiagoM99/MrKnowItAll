@@ -2,3 +2,4 @@ black
 chromadb
 rich
 sentence_transformers
+ollama
